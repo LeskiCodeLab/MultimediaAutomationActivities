@@ -1,0 +1,13 @@
+C:\Users\Neo\source\repos\MultimediaAutomationActivities\Test\bin\Release\Test.exe.config
+C:\Users\Neo\source\repos\MultimediaAutomationActivities\Test\bin\Release\Test.exe
+C:\Users\Neo\source\repos\MultimediaAutomationActivities\Test\bin\Release\Test.pdb
+C:\Users\Neo\source\repos\MultimediaAutomationActivities\Test\bin\Release\MultimediaAutomationActivities.dll
+C:\Users\Neo\source\repos\MultimediaAutomationActivities\Test\bin\Release\MultimediaAutomationActivities.pdb
+C:\Users\Neo\source\repos\MultimediaAutomationActivities\Test\obj\Release\Test.csprojAssemblyReference.cache
+C:\Users\Neo\source\repos\MultimediaAutomationActivities\Test\obj\Release\Test.Form1.resources
+C:\Users\Neo\source\repos\MultimediaAutomationActivities\Test\obj\Release\Test.Properties.Resources.resources
+C:\Users\Neo\source\repos\MultimediaAutomationActivities\Test\obj\Release\Test.csproj.GenerateResource.cache
+C:\Users\Neo\source\repos\MultimediaAutomationActivities\Test\obj\Release\Test.csproj.CoreCompileInputs.cache
+C:\Users\Neo\source\repos\MultimediaAutomationActivities\Test\obj\Release\Test.csproj.CopyComplete
+C:\Users\Neo\source\repos\MultimediaAutomationActivities\Test\obj\Release\Test.exe
+C:\Users\Neo\source\repos\MultimediaAutomationActivities\Test\obj\Release\Test.pdb

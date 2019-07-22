@@ -1,0 +1,6 @@
+C:\Users\Neo\source\repos\MultimediaAutomationActivities\MultimediaAutomationActivities\bin\Debug\MultimediaAutomationActivities.dll
+C:\Users\Neo\source\repos\MultimediaAutomationActivities\MultimediaAutomationActivities\bin\Debug\MultimediaAutomationActivities.pdb
+C:\Users\Neo\source\repos\MultimediaAutomationActivities\MultimediaAutomationActivities\obj\Debug\MultimediaAutomationActivities.csproj.CoreCompileInputs.cache
+C:\Users\Neo\source\repos\MultimediaAutomationActivities\MultimediaAutomationActivities\obj\Debug\MultimediaAutomationActivities.dll
+C:\Users\Neo\source\repos\MultimediaAutomationActivities\MultimediaAutomationActivities\obj\Debug\MultimediaAutomationActivities.pdb
+C:\Users\Neo\source\repos\MultimediaAutomationActivities\MultimediaAutomationActivities\obj\Debug\MultimediaAutomationActivities.csprojAssemblyReference.cache
